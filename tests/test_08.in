@@ -1,0 +1,18 @@
+AjouterSynonyme [FR] Phrase Discours Parole
+Chercher *
+Chercher [FR]
+ChercherSynonyme [FR] Phrase
+SupprimerSynonyme [FR] Phrase
+ChercherSynonyme [FR]   Phrase
+ChercherSynonyme [FR] Discours
+AjouterTraduction [FR] Phrase [EN]  Sentence  Locution
+ChercherTraduction [FR] Phrase
+ChercherTraduction [EN] Sentence
+ChercherSynonyme [EN]  Locution
+SupprimerTraduction [FR] Phrase
+ChercherTraduction [FR]  Phrase
+ChercherTraduction  [EN] Sentence
+Chercher  *
+Supprimer *
+Chercher    *
+Quitter

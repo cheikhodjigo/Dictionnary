@@ -1,0 +1,11 @@
+[FR]
+Discours
+Parole
+Phrase
+[EN]
+Locution
+Sentence
+[FR]
+Discours
+Parole
+Phrase
